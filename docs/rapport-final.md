@@ -18,7 +18,7 @@ title: "Rapport"
 12. Tout redeployer
 13. Vérifier
 
-{% :warning: Ces étapes sont un résumé %}
+{% info :warning: Ces étapes sont un résumé %}
 
 Les détailles sur ces étapes qui sont plus de la documentation sont inclues dans les différentes pages prévues à cet effet
 

@@ -38,3 +38,11 @@ Se connecter en ssh sur la machine d'OpenStack afin de tester les étapes d'inst
 Ne pas faire la parti `add stack user` qui est optionnelle
 
 {% end %}
+
+
+Configurer la machine pour qu'elle puisse accéder au S3 aws :
+```bash
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+```
