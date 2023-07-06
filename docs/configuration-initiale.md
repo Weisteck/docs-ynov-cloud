@@ -7,8 +7,15 @@ title: "Configuration Initiale"
 
 ## Création du repot GitHub
 
-Repot [GitHub](https://github.com/Riukotashi/tp-final-cloud)
+* Repot [GitHub](https://github.com/Riukotashi/tp-final-cloud)
 
+{% info %}
+
+repot initale mais en privée n'ayant pas les droits necessaires j'ai deplace le repot sur mon profile GitHub
+
+{% end %}
+
+* Repot [GitHub](https://github.com/Weisteck/docs-ynov-cloud)
 
 ## Installation et configuration sur la vm Terraform
 
