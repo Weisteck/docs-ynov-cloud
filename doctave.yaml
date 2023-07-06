@@ -9,3 +9,5 @@ navigation:
   - path: docs/maj-infra.md
   - path: docs/destruction-infra.md
   - path: docs/rapport-final.md
+
+base_path: /docs-ynov-cloud
